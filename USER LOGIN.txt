@@ -1,0 +1,18 @@
+administrasi
+user: admin
+password : admin
+=> input data
+
+pimpinan
+user: pimpinan
+password : pimpinan
+=> cetak dokumen pdf
+
+supplier
+user: supplier
+password : supplier
+=> memproses data Clustering
+
+
+PHP v7
+Engine Database: Mysqli
